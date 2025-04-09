@@ -13,7 +13,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | bRAC | better RAC client | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
 | Mefedroniy | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Archived | Rust |
 | Tower | GUI client for RAC developed using the Tauri framework | Kostya Zero | ❌ | Unreleased | Rust/TypeScript |
-| WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Unreleased | Java |
+| WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java |
 | WinRAC | GUI client for RAC developed using WinForms | cat8753 | ❌ | Abandoned/Unreleased | C# |
 
 # Servers
