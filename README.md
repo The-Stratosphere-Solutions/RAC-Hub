@@ -4,6 +4,8 @@
 
 Here you can find RAC clients, servers and more 
 
+You can help RAC Hub by [adding more information](https://github.com/Forbirdden/rachub/pulls)
+
 # Clients
 
 | Title        | Description | Author        | Download     | Status     | Lang     
