@@ -26,7 +26,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 # See also
 [clRAC](https://cdn.discordapp.com/attachments/1301183706681315388/1340609852145139864/clRAC-2.0.tar.gz?ex=67f789b8&is=67f63838&hm=a01e1ec484a41fcad202e7d0e4f0e8519dae43c5bea49a9cd1dc807b15faedbf&) and [lRACd](https://cdn.discordapp.com/attachments/1301183706681315388/1340609851751141396/lRACd-2.0.6.tar.gz?ex=67f789b7&is=67f63837&hm=53bcfde53599d28e90a7a81d94a8527a34aa4f74a0eb4c610762e35257c791c9&) for RAC 2.0
 
-[Colored usernames](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md)
+[Colored usernames](https://github.com/MeexReay/bRAC/blob/main/docs/message_formats.md)
 
 [About RAC 1.0](https://bedohswe.eu.org/text/rac/protocol.md.html)
 
