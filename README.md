@@ -12,10 +12,10 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | CRAB | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
 | bRAC | better RAC client | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
 | Mefedroniy | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Archived | Rust |
-| WinRAC | Mentioned [here](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md) | ??? | :x: | Unreleased | ??? |
-| Tower | Mentioned [here](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md) | Kostya Zero | :x: | Unreleased | Rust/TypeScript |
+| Tower | GUI client for RAC developed using the Tauri framework. Mentioned [here](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md) | Kostya Zero | :x: | Unreleased | Rust/TypeScript |
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | :x: | Unreleased | Java |
-
+| WinRAC | GUI client for RAC developed using WinForms. Mentioned [here](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md) | cat8753 | :x: | Abandoned/Unreleased | C# |
+|
 # Servers
 
 | Title        | Description | Author        | Download     | Status     | Lang     |
