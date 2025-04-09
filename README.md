@@ -13,7 +13,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | bRAC | better RAC client | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
 | Mefedroniy | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Archived | Rust |
 | WinRAC | Mentioned [here](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md) | ??? | ??? | ??? | ??? |
-| Tower | Mentioned [here](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md) | ??? | ??? | ??? | ??? |
+| Tower | Mentioned [here](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md) | Kostya Zero | ??? | Unreleased | Rust/TypeScript |
 
 # Servers
 
