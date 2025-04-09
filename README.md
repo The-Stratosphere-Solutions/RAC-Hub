@@ -1,5 +1,3 @@
-<h1 align="center">🦀 RAC Hub 🦀</h1>
-
 [<img src="https://github.com/user-attachments/assets/f2be5caa-6246-4a6a-9bee-2b53086f9afb" height="50">]() [<img src="https://github.com/user-attachments/assets/4d35191d-1dbc-4391-a761-6ae7f76ba7af" height="50">]() 
 
 Here you can find RAC clients, servers and more 
