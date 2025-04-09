@@ -15,7 +15,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | Tower | GUI client for RAC developed using the Tauri framework. Mentioned [here](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md) | Kostya Zero | :x: | Unreleased | Rust/TypeScript |
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | :x: | Unreleased | Java |
 | WinRAC | GUI client for RAC developed using WinForms. Mentioned [here](https://github.com/OctoBanon-Main/mefedroniy-client/blob/main/docs/colored_usernames.md) | cat8753 | :x: | Abandoned/Unreleased | C# |
-|
+
 # Servers
 
 | Title        | Description | Author        | Download     | Status     | Lang     |
