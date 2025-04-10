@@ -12,6 +12,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | CRAB | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
 | bRAC | better RAC client | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
 | Mefedroniy | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Archived | Rust |
+| Snowdrop | RAC/IRC/Matrix GUI client | Forbirdden | Soon... | In development | TypeScript/WASM |
 | Tower | GUI client for RAC developed using the Tauri framework | Kostya Zero | ❌ | Unreleased | Rust |
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java |
 | WinRAC | GUI client for RAC developed using WinForms | cat8753 | ❌ | Abandoned/Unreleased | C# |
