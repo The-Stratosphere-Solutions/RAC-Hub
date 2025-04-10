@@ -26,7 +26,9 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | AlmatyD | Open source server | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Not sure | TypeScript |
 
 # See also
-[clRAC](https://cdn.discordapp.com/attachments/1335223390050717778/1337827369012039860/clRAC-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=5de7fb84b7b070791366c3045d77d6b6d14091f4c9121603420277ec4df1c93e&) and [lRACd](https://cdn.discordapp.com/attachments/1335223390050717778/1337827368479227946/lRACd-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=98b26a72a41b06e8823b00adb74af01de2d2f3c1415e5acb865b26bbd55ee0ca&) for RAC 1.99
+[<img src="https://github.com/user-attachments/assets/c8fc2e67-a6dc-417a-a991-2f50aeb84eac" height="50">]() 
+
+[clRAC](https://cdn.discordapp.com/attachments/1335223390050717778/1337827369012039860/clRAC-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=5de7fb84b7b070791366c3045d77d6b6d14091f4c9121603420277ec4df1c93e&) and [lRACd](https://cdn.discordapp.com/attachments/1335223390050717778/1337827368479227946/lRACd-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=98b26a72a41b06e8823b00adb74af01de2d2f3c1415e5acb865b26bbd55ee0ca&) for RAC 1.99 
 
 [Colored usernames](https://github.com/MeexReay/bRAC/blob/main/docs/message_formats.md)
 
