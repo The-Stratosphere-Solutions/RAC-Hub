@@ -8,7 +8,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 | Title        | Description | Author        | Download     | Status     | Lang     
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
-| clRAC | The original RAC client | Mr. Sugoma | [Discord](https://wdfiles.ru/29VT5) | Active | C |
+| clRAC | The original RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT5) | Active | C |
 | CRAB | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
 | bRAC | better RAC client | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
 | Mefedroniy | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Archived | Rust |
@@ -21,7 +21,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 | Title        | Description | Author        | Download     | Status     | Lang     |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
-| lRACd | The original RAC server | Mr. Sugoma | [Discord](https://wdfiles.ru/29VT4) | Active | C |
+| lRACd | The original RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT4) | Active | C |
 | CRAB | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
 | AlmatyD | Open source server | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Not sure | TypeScript |
 
