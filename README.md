@@ -24,6 +24,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | lRACd | The original RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT4) | Active | C |
 | CRAB | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
 | AlmatyD | Open source server | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Not sure | TypeScript |
+| sRAC | simple RAC server | MeexReay/MixRay | Soon... | In development | Rust |
 
 # See also
 [<img src="https://github.com/user-attachments/assets/c8fc2e67-a6dc-417a-a991-2f50aeb84eac" height="50">]() 
