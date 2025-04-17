@@ -9,29 +9,31 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | Title        | Description | Author        | Download     | Status     | Lang     
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
 | clRAC | The original RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT5) | Active | C |
-| CRAB | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
-| bRAC[^1] | better RAC client (GUI/TUI) | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
-| Mefedroniy | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust |
+| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
+| [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI/TUI) | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
+| [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust |
 | Snowdrop | RAC/IRC/Matrix GUI client | Forbirdden | Soon... | In development | JavaScript |
 | Tower | GUI client for RAC developed using the Tauri framework | Kostya Zero | ❌ | Unreleased | Rust |
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java |
 | WinRAC | GUI client for RAC developed using WinForms | cat8753 | ❌ | Abandoned/Unreleased | C# |
 
-[^1]: _bRAC GUI requires [GTK4](https://www.gtk.org/docs/installations/windows/) on Windows_
+[^1]: bRAC GUI requires [GTK4](https://www.gtk.org/docs/installations/windows/) on Windows
 
 # Servers
 
 | Title        | Description | Author        | Download     | Status     | Lang     |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
 | lRACd | The original RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT4) | Active | C |
-| CRAB | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
-| AlmatyD | Open source server | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Not sure | TypeScript |
-| sRAC | simple RAC server | MeexReay/MixRay | Soon... | In development | Rust |
+| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
+| [AlmatyD](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Open source server | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Not sure[^2] | TypeScript |
+| [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay/MixRay | Soon... | In development | Rust |
+
+[^2]: "_Мне лень его допиливать. Если тебе зачем-то очень нужен RAC сервер, то ставь CRAB._" - chunbyonga
 
 # See also
-[<img src="https://github.com/user-attachments/assets/c8fc2e67-a6dc-417a-a991-2f50aeb84eac" height="50">]() 
+[clRAC](https://cdn.discordapp.com/attachments/1335223390050717778/1337827369012039860/clRAC-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=5de7fb84b7b070791366c3045d77d6b6d14091f4c9121603420277ec4df1c93e&) and [lRACd](https://cdn.discordapp.com/attachments/1335223390050717778/1337827368479227946/lRACd-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=98b26a72a41b06e8823b00adb74af01de2d2f3c1415e5acb865b26bbd55ee0ca&) for RAC 1.99[^3]
 
-[clRAC](https://cdn.discordapp.com/attachments/1335223390050717778/1337827369012039860/clRAC-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=5de7fb84b7b070791366c3045d77d6b6d14091f4c9121603420277ec4df1c93e&) and [lRACd](https://cdn.discordapp.com/attachments/1335223390050717778/1337827368479227946/lRACd-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=98b26a72a41b06e8823b00adb74af01de2d2f3c1415e5acb865b26bbd55ee0ca&) for RAC 1.99 
+[^3]: "_Про RAC 1 вообще забудь, это днище, его юзать нельзя._" - Mr. Sugoma
 
 [Colored usernames](https://github.com/MeexReay/bRAC/blob/main/docs/message_formats.md)
 
