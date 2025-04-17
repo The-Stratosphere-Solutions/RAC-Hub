@@ -6,32 +6,26 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 # Clients
 
-| Title        | Description | Author        | Download     | Status     | Lang     
-|    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
-| clRAC | The original RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT5) | Active | C |
-| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
-| [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI/TUI) | MeexReay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
-| [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust |
-| Snowdrop | RAC/IRC/Matrix GUI client | Forbirdden | Soon... | In development | JavaScript |
-| Tower | GUI client for RAC developed using the Tauri framework | Kostya Zero | ❌ | Unreleased | Rust |
-| WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java |
-| WinRAC | GUI client for RAC developed using WinForms | cat8753 | ❌ | Abandoned | C# |
+| Title        | Description | Author        | Download     | Status     | Lang | RAC   |   
+|    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----:    |
+| clRAC | The official RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT5) | Active | C | v2 |
+| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java | v1, v1.99.2 |
+| [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI/TUI) | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | v1.99.x, v2.x |
+| [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust | 1.99.2 |
+| Snowdrop | RAC/IRC/Matrix GUI client | Forbirdden | Soon... | In development | JavaScript | v1.99, v2 |
 
 [^1]: [bRAC-0.1.3+2.0 requires GTK4 installed for GUI on Windows](https://github.com/MeexReay/bRAC/releases/tag/0.1.3%2B2.0#user-content-window-gui-install)
 
 # Servers
 
-| Title        | Description | Author        | Download     | Status     | Lang     |
-|    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
-| lRACd | The original RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT4) | Active | C |
-| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
-| [AlmatyD](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Open source server | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Not sure[^2] | TypeScript |
-| [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay | Soon... | In development | Rust |
-
-[^2]: "_Мне лень его допиливать. Если тебе зачем-то очень нужен RAC сервер, то ставь CRAB._" - chunbyonga
+| Title        | Description | Author        | Download     | Status     | Lang     | RAC   |
+|    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----:    |
+| lRACd | The original RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT4) | Active | C | v2 |
+| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java | v1, v1.99.2 |
+| [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay/MixRay | Soon... | In development | Rust | v2.0 |
 
 # See also
-[clRAC](https://cdn.discordapp.com/attachments/1335223390050717778/1337827369012039860/clRAC-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=5de7fb84b7b070791366c3045d77d6b6d14091f4c9121603420277ec4df1c93e&) and [lRACd](https://cdn.discordapp.com/attachments/1335223390050717778/1337827368479227946/lRACd-1.99.0.tar.gz?ex=67f74d94&is=67f5fc14&hm=98b26a72a41b06e8823b00adb74af01de2d2f3c1415e5acb865b26bbd55ee0ca&) for RAC 1.99
+[RAC Hub archive](https://github.com/Forbirdden/RAC-Hub/blob/main/ARCHIVE.md)
 
 [Colored usernames](https://github.com/MeexReay/bRAC/blob/main/docs/message_formats.md)
 
