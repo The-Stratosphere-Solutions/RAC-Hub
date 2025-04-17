@@ -10,12 +10,14 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
 | clRAC | The original RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT5) | Active | C |
 | CRAB | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java |
-| bRAC | better RAC client | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
+| bRAC[^1] | better RAC client (GUI/TUI) | MeexReay/MixRay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | 
 | Mefedroniy | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust |
 | Snowdrop | RAC/IRC/Matrix GUI client | Forbirdden | Soon... | In development | JavaScript |
 | Tower | GUI client for RAC developed using the Tauri framework | Kostya Zero | ❌ | Unreleased | Rust |
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java |
 | WinRAC | GUI client for RAC developed using WinForms | cat8753 | ❌ | Abandoned/Unreleased | C# |
+
+[^1]: _bRAC GUI requires [GTK4](https://www.gtk.org/docs/installations/windows/) on Windows_
 
 # Servers
 
