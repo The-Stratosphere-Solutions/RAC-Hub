@@ -31,6 +31,4 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 [About RACv1.0](https://bedohswe.eu.org/text/rac/protocol.md.html)[^3]
 
-[^3]: "_Про RAC 1 вообще забудь, это днище, его юзать нельзя._" - Mr. Sugoma
-
 [About RACv2.0](https://gitea.bedohswe.eu.org/pixtaded/crab#rac-protocol)
