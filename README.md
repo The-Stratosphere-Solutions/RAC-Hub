@@ -23,6 +23,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | lRACd | The original RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT4) | Active | C | v2 |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java | v1, v1.99.2 |
 | [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay | Soon... | In development | Rust | v2.0 |
+| Mefedroniy Server | Yet another RAC server | OctoBanon | Soon... | In development | Rust | v2.0 |
 
 # See also
 [RAC Hub archive](https://github.com/Forbirdden/RAC-Hub/blob/main/ARCHIVE.md)
