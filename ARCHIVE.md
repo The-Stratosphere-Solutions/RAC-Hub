@@ -14,7 +14,6 @@ You can help RAC Hub Archive by [adding more information](https://github.com/For
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----:    |
 | clRAC 1.99.0[^3] | The official RAC client | Mr. Sugoma | [GitHub](https://github.com/Forbirdden/RAC-Hub/raw/refs/heads/main/clRAC-1.99.0.tar.gz) | Abandoned | C | v1.99.0 |
 | [Dobroho Vechora](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora) | The first open-source client | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora/src/branch/main/dobroho_vechora.bash) | Abandoned | Bash | v1 |
-| Tower | GUI client for RAC developed using the Tauri framework | Kostya Zero | ❌ | Abandoned | Rust | v1.99.2 |
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java | v1, v1.99.2 |
 | WinRAC | GUI client for RAC developed using WinForms | cat8753 | ❌ | Abandoned | C# | v1.99.2 |
 | lRAC 1.0.2[^3] | The first original RAC client developed using the tkinter library | Mr. Sugoma | _Lost..._ | Abandoned | Python | v1 |
