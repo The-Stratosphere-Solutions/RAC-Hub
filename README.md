@@ -17,7 +17,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 [^1]: [bRAC-0.1.3+2.0 requires GTK4 installed for GUI on Windows](https://github.com/MeexReay/bRAC/releases/tag/0.1.3%2B2.0#user-content-window-gui-install)
 
-# Servers
+# Server software
 
 | Title        | Description | Author        | Download     | Status     | Lang     | RAC   |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----:    |
@@ -25,6 +25,11 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java | v1, v1.99.2 |
 | [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay | Soon... | In development | Rust | v2.0 |
 | Gashishnik | Yet another RAC server | OctoBanon | Soon... | In development | Rust | v2.0 |
+
+# Known servers
+| IP        | Port | Owner        | Server software     | Status     | RAC     |
+|    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
+| 91.192.22.20 | 42666 | Mr. Sugoma | lRACd | Active | v2 |
 
 # See also
 [RAC Hub archive](https://github.com/Forbirdden/RAC-Hub/blob/main/ARCHIVE.md)
