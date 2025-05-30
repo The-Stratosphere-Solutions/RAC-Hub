@@ -26,6 +26,7 @@ You can help RAC Hub Archive by [adding more information](https://github.com/For
 | Title        | Description | Author        | Download     | Status     | Lang     |  RAC   |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----:    |
 | lRACd 1.99.0[^3] | The official RAC server | Mr. Sugoma | [GitHub](https://github.com/Forbirdden/RAC-Hub/raw/refs/heads/main/lRACd-1.99.0.tar.gz) | Abandoned | C | v1.99.0 |
+| lRACd 2.0.8 | The official RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/29VT4) | Abandoned | C | v2 |
 | [AlmatyD](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Open source server | Bʰedoh₂ swé | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Abandoned[^2] | TypeScript | v1 |
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java | v1, v1.99.2 |
 | Butter | Simple Node.js RAC server | Forbirdden | ❌ | Abandoned | JavaScript | v1.99, v2 |
