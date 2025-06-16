@@ -30,7 +30,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | IP        | Port | Owner        | Server software     | Status     | RAC     |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
 | 91.192.22.20 | 42666 | Mr. Sugoma | lRACd | Active | v2 |
-| meex.lol | 42666 | MeexReay | lRACd Active | v2 |
+| meex.lol | 42666 | MeexReay | lRACd | Active | v2 |
 
 # See also
 [RAC Hub archive](https://github.com/Forbirdden/RAC-Hub/blob/main/ARCHIVE.md)
