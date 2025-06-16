@@ -40,6 +40,6 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 [About RACv2.0](https://gitea.bedohswe.eu.org/pixtaded/crab#rac-protocol)
 
-[RAC-over-WS, Websocket RAC (WRAC)](https://github.com/MeexReay/bRAC/blob/main/docs/wrac.md)
+[About WRAC](https://github.com/MeexReay/bRAC/blob/main/docs/wrac.md)
 
 [^3]: "_Про RAC 1 вообще забудь, это днище, его юзать нельзя._" - Mr. Sugoma
