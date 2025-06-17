@@ -39,10 +39,10 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 [Colored usernames](https://github.com/MeexReay/bRAC/blob/main/docs/message_formats.md)
 
-[About RACv1.0](https://bedohswe.eu.org/text/rac/protocol.md.html)[^3]
+[About RACv1.0](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv1.md)[^3]
 
-[About RACv2.0](https://gitea.bedohswe.eu.org/pixtaded/crab#rac-protocol)
+[About RACv2.0](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv2.md)
 
-[About WRAC](https://github.com/MeexReay/bRAC/blob/main/docs/wrac.md)
+[About WRAC](https://github.com/Forbirdden/RAC-Hub/blob/main/WRAC.md)
 
 [^3]: "_Про RAC 1 вообще забудь, это днище, его юзать нельзя._" - Mr. Sugoma
