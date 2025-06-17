@@ -1,0 +1,27 @@
+v1.1.0+1.99.2 – Project Restructure
+EN
+Refactor
+Reorganized the entire src directory for better modularity and code clarity.
+Split major components into submodules:
+app, app_cli for application and CLI logic
+client for message sending/receiving
+config for config file operations
+formatter, input, ui, utils with clearer separation
+Entry point moved to src/bin/main.rs
+Added lib.rs as a reusable library module
+Cargo.toml
+Added [lib] and [[bin]] sections for clarity and flexibility
+Internal refactor only — no functional changes
+RU
+Рефакторинг
+Полностью переработана структура src для лучшей модульности и читаемости кода.
+Основные компоненты выделены в отдельные подмодули:
+app, app_cli — логика приложения и CLI;
+client — отправка и приём сообщений;
+config — работа с конфигурацией и её обработкой;
+formatter, input, ui, utils — структурированы и разделены по зонам ответственности.
+Точка входа перенесена в src/bin/main.rs.
+Добавлен lib.rs для библиотечной части.
+Cargo.toml
+Добавлены секции [lib] и [[bin]] для явного указания сборок.
+Изменения касаются только внутренней архитектуры — функционально без изменений
