@@ -1,0 +1,7 @@
+What's Changed
+WRAC compatibility
+Native notifications (GLib + libnotify)
+Codebase refactor and some fixes
+Update RAC-Hub link by @Forbirdden in #2
+New Contributors
+@Forbirdden made their first contribution in #2
