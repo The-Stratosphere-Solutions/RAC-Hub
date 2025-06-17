@@ -32,7 +32,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----: |
 | 91.192.22.20 | 42666 | Mr. Sugoma | lRACd | Active | v2 |
 | meex.lol | 42666 | MeexReay | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Active | v1.99.2 |
-| meex.lol | 52667 | MeexReay | sRAC | Active | ❌ | ✅ |
+| meex.lol | 52667 | MeexReay | [sRAC](https://github.com/MeexReay/sRAC) | Active | ❌ | ✅ |
 
 # See also
 [RAC Hub archive](https://github.com/Forbirdden/RAC-Hub/blob/main/ARCHIVE.md)
