@@ -29,8 +29,8 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 | IP        | Port | Owner        | Server software     | Status     | RAC     | WRAC | Auth |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----: | :----: |
-| 91.192.22.20 | 42666 | Mr. Sugoma | lRACd | Active | v2 | Optional |
-| meex.lol | 42666 | MeexReay | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Active | v1.99.2 | ??? |
+| 91.192.22.20 | 42666 | Mr. Sugoma | lRACd | Active | v2 | | Optional |
+| meex.lol | 42666 | MeexReay | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Active | v1.99.2 | | ??? |
 | meex.lol | 52667 | MeexReay | [sRAC](https://github.com/MeexReay/sRAC) | Active |  | v2 | Required |
 
 # See also
