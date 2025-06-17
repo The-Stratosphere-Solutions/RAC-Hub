@@ -1,0 +1,8 @@
+Changes:
+
+Removed TUI
+Added Settings menu
+Added socks5 proxy setting
+Fixed sugoma server connection
+Made window resizable
+Some other fixes
