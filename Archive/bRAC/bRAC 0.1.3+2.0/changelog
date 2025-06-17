@@ -1,0 +1,12 @@
+Added:
+
+GTK GUI
+/register command
+/login command
+some other fixes
+Full Changelog: 0.1.2+2.0...0.1.3+2.0
+
+Windows GUI installation!!!
+Unpack GTK4 archive from gvsbuild to C:\gtk4 (for example)
+Add the C:\gtk4\bin to PATH var (How to add a folder to Path environment variable in Windows 10 (with screenshots))
+Restart PC and run bRAC-windows-x86_64.exe
