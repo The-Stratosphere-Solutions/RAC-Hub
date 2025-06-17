@@ -18,6 +18,7 @@ You can help RAC Hub Archive by [adding more information](https://github.com/For
 | lRAC 1.0.2[^3] | The first original RAC client developed using the tkinter library | Mr. Sugoma | _Lost..._ | Abandoned | Python | v1 |
 | lRAC 1.0.1[^3] | The first original RAC client developed using the tkinter library | Mr. Sugoma | [GitHub](https://github.com/Forbirdden/RAC-Hub/raw/refs/heads/main/Archive/lrac_1.0.1.py) | Abandoned | Python | v1 |
 | lRAC 1.0.0[^3] | The first original RAC client developed using the tkinter library | Mr. Sugoma | [GitHub](https://github.com/Forbirdden/RAC-Hub/raw/refs/heads/main/Archive/lrac.py) | Abandoned | Python | v1 |
+| Tower | GUI client for RAC developed using the Tauri framework | Kostya Zero | ❌ | Abandoned | Rust | v2 |
 
 # Servers
 
