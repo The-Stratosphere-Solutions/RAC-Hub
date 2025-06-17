@@ -23,15 +23,16 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----:    | :----: |
 | lRACd | The official RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Obvt) | Active | C | v2 |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Active | Java | v1, v1.99.2 |
-| [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay | Soon... | In development | Rust | v2.0 | ✅ |
+| [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay | [GitHub](https://github.com/MeexReay/sRAC/releases) | Active | Rust | v2.0 | ✅ |
 | Gashishnik | Yet another RAC server | OctoBanon | Soon... | In development | Rust | v2.0 |
 
 # Known servers
 
-| IP        | Port | Owner        | Server software     | Status     | RAC     |
-|    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    |
+| IP        | Port | Owner        | Server software     | Status     | RAC     | WRAC |
+|    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----: |
 | 91.192.22.20 | 42666 | Mr. Sugoma | lRACd | Active | v2 |
 | meex.lol | 42666 | MeexReay | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Active | v1.99.2 |
+| meex.lol | 52667 | MeexReay | sRAC | Active | ❌ | ✅ |
 
 # See also
 [RAC Hub archive](https://github.com/Forbirdden/RAC-Hub/blob/main/ARCHIVE.md)
