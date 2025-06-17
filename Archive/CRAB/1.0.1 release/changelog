@@ -1,0 +1,4 @@
+Added CLI:
+
+crab client [nick] - connect to a server.
+crab server - start a server.
