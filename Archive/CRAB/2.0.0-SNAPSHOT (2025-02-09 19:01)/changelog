@@ -1,0 +1,6 @@
+Add client-specific color support.
+Currently, the supported clients are:
+
+CRAB
+bRAC
+clRAC
