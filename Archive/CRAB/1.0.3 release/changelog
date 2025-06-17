@@ -1,0 +1,1 @@
+Implement message caching (Only send LOGS packet to server when the LOGS_SIZE returned by server is different from cached one)
