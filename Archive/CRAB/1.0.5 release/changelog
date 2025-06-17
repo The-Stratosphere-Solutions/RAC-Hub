@@ -1,0 +1,4 @@
+Changelog:
+Added serverside caching
+Improved sanitizing
+Started to use shadowJar instead of application
