@@ -1,5 +1,5 @@
 # RAC Protocol
-RAC v2.0 is backward compatible with older versions of RAC
+RAC v2.0 is backward compatible with RAC v1.99.x
 ## Message Retrieval
 
 a. The client initiates a message retrieval session by sending the byte 0x00 to the server.
