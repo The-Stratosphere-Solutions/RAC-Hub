@@ -13,7 +13,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Frozen | Java | v1.99.2 | 🔴 |
 | clRAC | The official RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Obvt) | Active | C | v2 | 🔴 |
 | Snowdrop | WRAC GUI client | Forbirdden | Soon... | In development | JavaScript | 🔴 | v2 |
-| [сRACk](https://github.com/pansangg/cRACk)[^4] | client for RAC kettles (TUI) | pansangg | [GitHub](https://raw.githubusercontent.com/pansangg/cRACk/refs/heads/main/main.py) | Active | Python | v2 | 🔴 |
+| [сRACk](https://github.com/pansangg/cRACk)[^4] | client for RAC kettles (TUI) | pansangg | [GitHub](https://raw.githubusercontent.com/pansangg/cRACk/refs/heads/main/main.py) | Active | Python | v1.99.2 | 🔴 |
 
 [^1]: [bRAC-0.1.3+2.0 requires GTK4 installed for GUI on Windows](https://github.com/MeexReay/bRAC/releases/tag/0.1.3%2B2.0#user-content-window-gui-install)
 
