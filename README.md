@@ -30,7 +30,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | IP        | Port | Owner        | Server software     | Status     | RAC     | WRAC | Auth |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----: | :----: |
 | 91.192.22.20 | 42666 | Mr. Sugoma | lRACd | Active | v2 | | Optional |
-| meex.lol | 42666 | MeexReay | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Active | v1.99.2 | | ??? |
+| meex.lol | 42666 | MeexReay | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Active | v1.99.2 | | Incompatible |
 | meex.lol | 52667 | MeexReay | [sRAC](https://github.com/MeexReay/sRAC) | Active |  | v2 | Required |
 
 # See also
@@ -43,6 +43,6 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 [About RACv2.0](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv2.md)
 
-[About WRACv2](https://github.com/Forbirdden/RAC-Hub/blob/main/WRAC.md)
+[About WRACv2.0](https://github.com/Forbirdden/RAC-Hub/blob/main/WRAC.md)
 
 [^3]: "_Про RAC 1 вообще забудь, это днище, его юзать нельзя._" - Mr. Sugoma
