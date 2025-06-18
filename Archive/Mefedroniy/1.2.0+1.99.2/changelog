@@ -1,0 +1,13 @@
+[v1.2.0+1.99.2] - 2025-06-28
+EN
+Features
+Replaced standard error handling with anyhow::Result for improved ergonomics and error management.
+Introduced asynchronous domain resolving and configuration input reading to enhance performance and responsiveness.
+Migrated regex initialization from lazy_static to once_cell for a more modern and flexible implementation.
+Translated all user-facing text from Russian to English for better accessibility and consistency.
+RU
+Новые возможности
+Заменена стандартная обработка ошибок на anyhow::Result для улучшения удобства и управления ошибками.
+Внедрён асинхронный резолвинг доменов и чтение конфигурации для повышения производительности и отзывчивости.
+Инициализация регулярных выражений перенесена с lazy_static на once_cell для более современной и гибкой реализации.
+Весь пользовательский текст переведён с русского на английский для лучшей доступности и единообразия.
