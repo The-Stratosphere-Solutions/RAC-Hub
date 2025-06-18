@@ -1,0 +1,11 @@
+v1.1.1+1.99.2
+EN
+Fixes
+Fixed duplicated input events on Windows (no issues on Linux/macOS), caused by crossterm event handling behavior. (Issue #2)
+Dependencies
+Updated crossterm to the latest stable version
+RU
+Исправления
+Исправлена проблема с дублированием событий ввода на Windows, вызванная особенностями работы crossterm. (см. Issue #2)
+Обновления
+Обновлена зависимость crossterm до последней стабильной версии.
