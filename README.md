@@ -13,6 +13,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI) | MeexReay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | v2 | v2 |
 | [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust | v1.99.2 | 🔴 |
 | Snowdrop | WRAC GUI client | Forbirdden | Soon... | In development | JavaScript | 🔴 | v2 |
+| сRACk | client for RAC kettles (tui) | pansangg | in dev | In development | Python | v2 | 🔴 |
 
 [^1]: [bRAC-0.1.3+2.0 requires GTK4 installed for GUI on Windows](https://github.com/MeexReay/bRAC/releases/tag/0.1.3%2B2.0#user-content-window-gui-install)
 
