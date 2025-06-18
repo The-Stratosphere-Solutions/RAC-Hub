@@ -24,7 +24,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | lRACd | The official RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Obvt) | Active | C | v2 | 🔴 |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Abandoned | Java | v1.99.2 | 🔴 |
 | [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay | [GitHub](https://github.com/MeexReay/sRAC/releases) | Active | Rust | v2 | v2 | 
-| Gashishnik | Yet another RAC server | OctoBanon | Soon... | In development | Rust | v2 | 🔴 |
+| Gashishnik | WRAC server | OctoBanon | Soon... | In development | Rust | 🔴 | v2 |
 
 # Known servers
 
