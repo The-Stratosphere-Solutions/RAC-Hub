@@ -48,6 +48,8 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 [About RACv1.0](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv1.md)[^3]
 
+[About RACv1.99.x](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv1.99.md)
+
 [About RACv2.0](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv2.md)
 
 [About WRACv2.0](https://github.com/Forbirdden/RAC-Hub/blob/main/WRAC.md)
