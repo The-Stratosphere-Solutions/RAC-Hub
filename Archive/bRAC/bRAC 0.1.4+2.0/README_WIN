@@ -1,0 +1,2 @@
+1) Download GTK4 from https://github.com/wingtk/gvsbuild/releases/latest
+2) Put files from bin/ and lib/ from GTK4 into the same folder as bRAC.exe
