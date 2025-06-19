@@ -15,7 +15,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | Snowdrop | WRAC GUI client | Forbirdden | Soon... | In development | JavaScript | 🔴 | v2 |
 | [сRACk](https://github.com/pansangg/cRACk) | client for RAC kettles (TUI) | pansangg | [GitHub](https://github.com/pansangg/cRACk/releases) | Active | Python | v1.99.2 | 🔴 |
 
-[^1]: [bRAC-0.1.3+2.0 requires GTK4 installed for GUI on Windows](https://github.com/MeexReay/bRAC/releases/tag/0.1.3%2B2.0#user-content-window-gui-install)
+[^1]: [bRAC-0.1.3+2.0 requires GTK4 to be installed on Windows](https://github.com/MeexReay/bRAC/releases/tag/0.1.3%2B2.0#user-content-window-gui-install)
 
 # Server software
 
@@ -54,6 +54,6 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 [About WRACv2.0](https://github.com/Forbirdden/RAC-Hub/blob/main/WRAC.md)
 
-[RAC.rs - RAC library for Rust](https://github.com/kostya-zero/rac-rs)
+[RAC.rs](https://github.com/kostya-zero/rac-rs) - RAC library for Rust
 
 [^3]: "_Про RAC 1 вообще забудь, это днище, его юзать нельзя._" - Mr. Sugoma
