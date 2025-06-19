@@ -54,4 +54,6 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 [About WRACv2.0](https://github.com/Forbirdden/RAC-Hub/blob/main/WRAC.md)
 
+[RAC.rs - RAC library for Rust](https://github.com/kostya-zero/rac-rs)
+
 [^3]: "_Про RAC 1 вообще забудь, это днище, его юзать нельзя._" - Mr. Sugoma
