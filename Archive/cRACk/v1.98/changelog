@@ -1,0 +1,11 @@
+big update!
+
+what's new
+ansi filtering (not tested)
+hide your IP and "(UNAUTHENTICATED)"
+motd in hello message
+changes
+add screenshots in readme.md
+fixed
+check update fail crash
+data_size less than last_size bug
