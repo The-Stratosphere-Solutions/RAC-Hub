@@ -28,20 +28,18 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 # Known servers
 
-| IP        | Port | Description | Server software     | Status     | Protocol | Auth |
+| IP        | Port | Description | Software     | Status     | Protocol | Auth |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----: |
-| 91.192.22.20 | 42666 | Official server by Mr. Sugoma | lRACd | Active | RACv2 | 🟡 |
-| meex.lol | 11234 | WRACS proxy of the official server | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | 🟢 |
-| meex.lol | 42666 | RAC proxy of MeexReay's WRACS server | [sRAC](https://github.com/MeexReay/sRAC) | Active | RACv2 | 🟢 |
-| meex.lol | 52667 | MeexReay's WRACS server | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | 🟢 |
+| 91.192.22.20 | 42666 | Official server by Mr. Sugoma | lRACd | Active | RACv2 | Optional |
+| meex.lol | 11234 | WRACS proxy of the official server | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | Optional |
+| meex.lol | 42666 | RAC proxy of MeexReay's WRACS server | [sRAC](https://github.com/MeexReay/sRAC) | Active | RACv2 | Required |
+| meex.lol | 52667 | MeexReay's WRACS server | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | Required |
 
 # See also
 
-🔴 - Unsupported/Incompatible/No
-
-🟡 - Optional/Not required/Half supported
-
-🟢 - Supported/Required/Yes
+🔴 - Unsupported \
+🟡 - Semi-supported \
+🟢 - Supported
 
 [RAC Hub archive](https://github.com/Forbirdden/RAC-Hub/blob/main/ARCHIVE.md)
 
