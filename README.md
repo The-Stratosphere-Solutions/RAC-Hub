@@ -28,11 +28,12 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 # Known servers
 
-| IP        | Port | Owner        | Server software     | Status     | RAC     | WRAC | Auth |
-|    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----: | :----: |
-| 91.192.22.20 | 42666 | Mr. Sugoma | lRACd | Active | v2 | 🔴 | 🟡 |
-| meex.lol | 42666 | MeexReay | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Active | v1.99.2 | 🔴 | 🔴 |
-| meex.lol | 52667 | MeexReay | [sRAC](https://github.com/MeexReay/sRAC) | Active | 🔴 | v2 | 🟢 |
+| IP        | Port | Description | Server software     | Status     | Protocol | Auth |
+|    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----: |
+| 91.192.22.20 | 42666 | Official server by Mr. Sugoma | lRACd | Active | RACv2 | 🟡 |
+| meex.lol | 11234 | WRACS proxy of the official server | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | 🟢 |
+| meex.lol | 42666 | RAC proxy of MeexReay's WRACS server | [sRAC](https://github.com/MeexReay/sRAC) | Active | RACv2 | 🟢 |
+| meex.lol | 52667 | MeexReay's WRACS server | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | 🟢 |
 
 # See also
 
