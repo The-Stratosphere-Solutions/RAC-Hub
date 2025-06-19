@@ -9,11 +9,11 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | Title        | Description | Author        | Download     | Status     | Lang | RAC   |   WRAC |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----:    | :----: |
 | [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI) | MeexReay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | v2 | v2 |
-| [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust | v1.99.2 | 🔴 |
-| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Frozen | Java | v1.99.2 | 🔴 |
-| clRAC | The official RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Ofx7) | Active | C | v2 | 🔴 |
-| Snowdrop | WRAC GUI client | Forbirdden | Soon... | In development | JavaScript | 🔴 | v2 |
-| [сRACk](https://github.com/pansangg/cRACk) | client for RAC kettles (TUI) | pansangg | [GitHub](https://github.com/pansangg/cRACk/releases) | Active | Python | v1.99.2 | 🔴 |
+| [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust | v1.99.2 | No |
+| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Frozen | Java | v1.99.2 | No |
+| clRAC | The official RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Ofx7) | Active | C | v2 | No |
+| Snowdrop | WRAC GUI client | Forbirdden | Soon... | In development | JavaScript | No | v2 |
+| [сRACk](https://github.com/pansangg/cRACk) | client for RAC kettles (TUI) | pansangg | [GitHub](https://github.com/pansangg/cRACk/releases) | Active | Python | v1.99.2 | No |
 
 [^1]: [bRAC-0.1.3+2.0 requires GTK4 to be installed on Windows](https://github.com/MeexReay/bRAC/releases/tag/0.1.3%2B2.0#user-content-window-gui-install)
 
@@ -21,10 +21,10 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 | Title        | Description | Author        | Download     | Status     | Lang     | RAC   | WRAC |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----:    | :----: |
-| lRACd | The official RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Obvt) | Active | C | v2 | 🔴 |
-| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Abandoned | Java | v1.99.2 | 🔴 |
+| lRACd | The official RAC server | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Obvt) | Active | C | v2 | No |
+| [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Abandoned | Java | v1.99.2 | No |
 | [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay | [GitHub](https://github.com/MeexReay/sRAC/releases) | Active | Rust | v2 | v2 | 
-| Gashishnik | WRAC server | OctoBanon | Soon... | In development | Rust | 🔴 | v2 |
+| Gashishnik | WRAC server | OctoBanon | Soon... | In development | Rust | No | v2 |
 
 # Known servers
 
@@ -36,10 +36,6 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | meex.lol | 52667 | MeexReay's WRACS server | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | Required |
 
 # See also
-
-🔴 - Unsupported \
-🟡 - Semi-supported \
-🟢 - Supported
 
 [RAC Hub archive](https://github.com/Forbirdden/RAC-Hub/blob/main/ARCHIVE.md)
 
