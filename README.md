@@ -33,7 +33,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | 91.192.22.20 | 42666 | Official server by Mr. Sugoma | lRACd | Active | RACv2 | Optional |
 | meex.lol | 11234 | WRACS tor proxy of 91.192.22.20:42666 | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | Optional |
 | meex.lol | 42666 | RAC proxy of meex.lol:52667 | [sRAC](https://github.com/MeexReay/sRAC) | Active | RACv2 | Required |
-| meex.lol | 52667 | MOfficial WRACS server | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | Required |
+| meex.lol | 52667 | Official WRACS server | [sRAC](https://github.com/MeexReay/sRAC) | Active | WRACSv2 | Required |
 
 # See also
 
