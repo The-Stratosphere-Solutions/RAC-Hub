@@ -16,7 +16,6 @@ You can help RAC Hub Archive by [adding more information](https://github.com/For
 | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden | ❌ | Abandoned | Java | v1, v1.99.2 |
 | WinRAC | GUI client for RAC developed using WinForms | cat8753 | ❌ | Abandoned | C# | v1.99.2 |
 | lRAC[^3] | The first original RAC client developed using the tkinter library | Mr. Sugoma | [GitHub](https://github.com/The-Stratosphere-Solutions/RAC-Hub/tree/main/Archive/lRAC) | Abandoned | Python | v1 |
-| Tower | GUI client for RAC developed using the Tauri framework | Kostya Zero | ❌ | Abandoned | Rust | v2 |
 
 # Servers
 
