@@ -9,6 +9,7 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 | Title        | Description | Author        | Download     | Status     | Lang | RAC   |   WRAC |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----:    | :----: |
 | [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI) | MeexReay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | v2 | v2 |
+| [Tower](https://github.com/kostya-zero/tower) | GUI client for RAC developed using the Tauri framework | Kostya Zero | ❌ | In development | Rust | 🔴 |
 | [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust | v1.99.2 | 🔴 |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Frozen | Java | v1.99.2 | 🔴 |
 | clRAC | The official RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Ofx7) | Active | C | v2 | 🔴 |
