@@ -2,7 +2,7 @@
 
 Here you can find RAC clients, servers and more 
 
-You can help RAC Hub by [adding more information](https://github.com/Forbirdden/rachub/pulls)
+You can help RAC Hub by [adding more information](https://the-stratosphere-solutions.github.io/RAC-Hub/pulls)
 
 # Clients
 
@@ -44,19 +44,19 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 🟢 - Supported/Required/Yes
 
-[RAC Hub archive](https://github.com/Forbirdden/RAC-Hub/blob/main/ARCHIVE.md)
+[RAC Hub archive](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/ARCHIVE.md)
 
 [User agents](https://github.com/MeexReay/bRAC/blob/main/docs/user_agents.md)
 
-[Server info packet](https://github.com/Forbirdden/RAC-Hub/blob/main/SIP.md)
+[Server info packet](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/SIP.md)
 
-[About RACv1.0](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv1.md)[^3]
+[About RACv1.0](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/RACv1.md)[^3]
 
-[About RACv1.99.x](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv1.99.md)
+[About RACv1.99.x](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/RACv1.99.md)
 
-[About RACv2.0](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv2.md)
+[About RACv2.0https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/RACv2.md)
 
-[About WRACv2.0](https://github.com/Forbirdden/RAC-Hub/blob/main/WRAC.md)
+[About WRACv2.0](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/WRAC.md)
 
 [RAC.rs](https://github.com/kostya-zero/rac-rs) - A Rust client library for RAC protocol. 
 
