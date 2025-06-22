@@ -48,6 +48,8 @@ You can help RAC Hub by [adding more information](https://github.com/Forbirdden/
 
 [User agents](https://github.com/MeexReay/bRAC/blob/main/docs/user_agents.md)
 
+[Server info packet](https://github.com/Forbirdden/RAC-Hub/blob/main/SIP.md)
+
 [About RACv1.0](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv1.md)[^3]
 
 [About RACv1.99.x](https://github.com/Forbirdden/RAC-Hub/blob/main/RACv1.99.md)
