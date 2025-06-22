@@ -44,19 +44,19 @@ You can help RAC Hub by [adding more information](https://the-stratosphere-solut
 
 🟢 - Supported/Required/Yes
 
-[RAC Hub archive](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/ARCHIVE.md)
+[RAC Hub archive](https://github.com/The-Stratosphere-Solutions/RAC-Hub/blob/main/ARCHIVE.md)
 
 [User agents](https://github.com/MeexReay/bRAC/blob/main/docs/user_agents.md)
 
-[Server info packet](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/SIP.MD)
+[Server info packet](https://github.com/The-Stratosphere-Solutions/RAC-Hub/blob/main/SIP.MD)
 
-[About RACv1.0](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/RACv1.md)[^3]
+[About RACv1.0](https://github.com/The-Stratosphere-Solutions/RAC-Hub/blob/main/RACv1.md)[^3]
 
-[About RACv1.99.x](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/RACv1.99.md)
+[About RACv1.99.x](https://github.com/The-Stratosphere-Solutions/RAC-Hub/blob/main/RACv1.99.md)
 
-[About RACv2.0](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/RACv2.md)
+[About RACv2.0](https://github.com/The-Stratosphere-Solutions/RAC-Hub/blob/main/RACv2.md)
 
-[About WRACv2.0](https://the-stratosphere-solutions.github.io/RAC-Hub/blob/main/WRAC.md)
+[About WRACv2.0](https://github.com/The-Stratosphere-Solutions/RAC-Hub/blob/main/WRAC.md)
 
 [RAC.rs](https://github.com/kostya-zero/rac-rs) - A Rust client library for RAC protocol. 
 
