@@ -11,7 +11,7 @@ You can help RAC Hub by [adding more information](https://the-stratosphere-solut
 | [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI) | MeexReay | [GitHub](https://github.com/MeexReay/bRAC/releases) | Active | Rust | v2 | v2 |
 | [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [GitHub](https://github.com/OctoBanon-Main/mefedroniy-client/releases) | Active | Rust | v1.99.2 | 🔴 |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [Bʰedoh₂ swé's Gitea](https://gitea.bedohswe.eu.org/pixtaded/crab/releases) | Frozen | Java | v1.99.2 | 🔴 |
-| [Snowdrop](https://github.com/Forbirdden/Snowdrop) | WRAC GUI client | Forbirdden | Soon... | In development | JavaScript | 🔴 | v2 |
+| [Snowdrop](https://github.com/Forbirdden/Snowdrop) | (W)RAC modern lightweight client | Forbirdden | Soon... | In development | JavaScript | v2 | v2 |
 | [Tower](https://github.com/kostya-zero/tower) | GUI client for RAC developed using the Tauri framework | Kostya Zero | Soon... | In development | TS/Rust | v2 | v2 |
 | [сRACk](https://github.com/pansangg/cRACk) | client for RAC kettles (TUI) | pansangg | [GitHub](https://github.com/pansangg/cRACk/releases) | Active | Python | v2 | 🔴 |
 | clRAC | The official RAC client | Mr. Sugoma | [WDfiles](https://wdfiles.ru/Ofx7) | Active | C | v2 | 🔴 |
