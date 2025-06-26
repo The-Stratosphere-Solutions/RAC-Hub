@@ -1,4 +1,4 @@
-[<img src="https://github.com/user-attachments/assets/f2be5caa-6246-4a6a-9bee-2b53086f9afb" height="50">]() [<img src="https://github.com/user-attachments/assets/4d35191d-1dbc-4391-a761-6ae7f76ba7af" height="50">]() 
+ [<img src="https://github.com/user-attachments/assets/f2be5caa-6246-4a6a-9bee-2b53086f9afb" height="50">]() [<img src="https://github.com/user-attachments/assets/4d35191d-1dbc-4391-a761-6ae7f76ba7af" height="50">]() 
 
 Here you can find RAC clients, servers and more 
 
@@ -32,7 +32,7 @@ You can help RAC Hub by [adding more information](https://the-stratosphere-solut
 | IP        | Port | Description | Owner        | Server software     | Status     | RAC     | WRAC | Auth | Secure |
 |    :----:    |    :----:   |    :----:     |  :----:  |  :----:    |  :----:    | :----: | :----: | :----: | :----: |
 | 91.192.22.20 | 42666 | Official RAC server | Mr. Sugoma | lRACd | Active | v2 | 🔴 | 🟡 | 🔴 |
-| meex.lol | 11234 | Proxy of 91.192.22.20:42666 | MeexReay | [sRAC](https://github.com/MeexReay/sRAC) | Active | 🔴 | v2 | 🟡 | 🟢 | 
+| meex.lol | 11234 | Proxy of 91.192.22.20:42666 | MeexReay | [sRAC](https://github.com/MeexReay/sRAC) | Abandoned | 🔴 | v2 | 🟡 | 🟢 | 
 | meex.lol | 42666 | Proxy of meex.lol:52667 | MeexReay | [sRAC](https://github.com/MeexReay/sRAC) | Active | v2 | 🔴 | 🟢 | 🔴 | 
 | meex.lol | 52667 | Official WRAC server| MeexReay | [sRAC](https://github.com/MeexReay/sRAC) | Active | 🔴 | v2 | 🟢 | 🟢 | 
 
